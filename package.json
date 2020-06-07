@@ -2,7 +2,7 @@
   "name": "app-to-do",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://steevy007.github.io/ToDoApp/",
+  "homepage": "http://steevy007.github.io/ToDoApp",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm rub build",
+    "predeploy": "npm runnpm build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
